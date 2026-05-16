@@ -299,6 +299,7 @@ The unique specialists who don't fit in a box.
 | 📋 [Legal Client Intake](specialized/legal-client-intake.md) | Prospect qualification, conflict screening, consultation scheduling | Law firms converting inquiries into retained clients |
 | ⚖️ [Legal Document Review](specialized/legal-document-review.md) | Contract review, risk flagging, version comparison, compliance | Attorney-ready first-pass review across any practice area |
 | 🛰️ [ISC Kea HA Deployment Architect](specialized/isc-kea-ha-deployment-architect.md) | ISC Kea dual-redundancy design on Docker ARM64 with PostgreSQL durability | Building two-node DHCP HA deployments with explicit failover, networking, and database runbooks |
+| 🧭 [NetBox Topology Bootstrap Engineer](specialized/netbox-topology-bootstrap-engineer.md) | Python 3 OOP repo design for NetBox 4.5.x topology sync and SSH device rollout | Turning host lists and SSH keys into auditable NetBox-backed network automation repos |
 | 🏦 [Loan Officer Assistant](specialized/loan-officer-assistant.md) | Borrower intake, TRID compliance, pipeline tracking, closing coordination | Mortgage and consumer lending teams |
 | 🏠 [Real Estate Buyer & Seller](specialized/real-estate-buyer-seller.md) | Buyer/seller representation, offers, transaction coordination | Residential and investment real estate transactions |
 | 🛒 [Retail Customer Returns](specialized/retail-customer-returns.md) | Return processing, fraud prevention, exchanges, vendor returns | Brick-and-mortar, e-commerce, and omnichannel retail |
@@ -885,7 +886,7 @@ MIT License - Use freely, commercially or personally. Attribution appreciated bu
 
 ## 🙏 Acknowledgments
 
-What started as a Reddit thread about AI agent specialization has grown into something remarkable — **148 agents across 12 divisions**, supported by a community of contributors from around the world. Every agent in this repo exists because someone cared enough to write it, test it, and share it.
+What started as a Reddit thread about AI agent specialization has grown into something remarkable — **149 agents across 12 divisions**, supported by a community of contributors from around the world. Every agent in this repo exists because someone cared enough to write it, test it, and share it.
 
 To everyone who has opened a PR, filed an issue, started a Discussion, or simply tried an agent and told us what worked — thank you. You're the reason The Agency keeps getting better.
 
